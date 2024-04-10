@@ -1,0 +1,8 @@
+{
+  "userId": "string",
+  "name": "string",
+  "email": "string",
+  "companyId": "string",
+  "createdAt": "timestamp",
+  "updatedAt": "timestamp"
+}

@@ -1,0 +1,9 @@
+{
+    "companyId": "string",
+    "name": "string",
+    "address": "string",
+    "createdAt": "timestamp",
+    "updatedAt": "timestamp"
+}
+
+  
